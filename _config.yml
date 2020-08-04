@@ -1,6 +1,7 @@
 # Site settings
 title:          Rain
 description:    "Rain is a simple and clean Jekyll theme with focus on content."
+url:            https://b2flat.github.io
 
 # Author
 author:
