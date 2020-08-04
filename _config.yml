@@ -1,14 +1,17 @@
+remote_theme:	inelaah/rain
+
 # Site settings
-title:          Rain
+title:          BEFLAT
 description:    "Rain is a simple and clean Jekyll theme with focus on content."
-baseurl: 	""
-url:            https://b2flat.github.io
+url:		"https://b2flat.github.io"
+baseurl:	""	
 
 # Author
-author:
-  name:         Inela Avdic Hukic
-  email:        inelaah@gmail.com
-  url:          https://inelaah.com
+author:		BEFLAT
+name:		BEFLAT
+email:		b2flat@gmail.com
+url:		"https://b2flat.github.io"
+baseurl:	""
 
 # Build settings
 markdown:       kramdown
@@ -36,6 +39,6 @@ related_posts_section:
 # Links to social media
 social:
   email: inelaah@gmail.com
-  github: https://github.com/b2flat
+  github: https://github.com/inelaah
   twitter: https://twitter.com
   linkedin: https://ba.linkedin.com/in/inela-avdic-hukic-322354131
